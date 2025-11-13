@@ -22,7 +22,6 @@ Using 20 years of daily data (2005–2025), I compute:
 ### Files
 - `OvernightVolatilityProject.ipynb` — full analysis + code  
 - `OvernightVolatilityReport.pdf` — formatted final paper  
-- `scatter.png`, `rolling_corr.png` — visualizations  
 
 ---
 
